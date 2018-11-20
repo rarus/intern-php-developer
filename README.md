@@ -42,6 +42,6 @@
 ## Тестовые задачи для самостоятельного решения
 Мы подобрали тестовые задачи таким образом, что разработчик может их решить суммарно потратив не более 4 часов своего времени. Задачи проверяют базовые знания и способность кандидата внимательно читать текст задачи.
 
-- [Скобки](https://github.com/rarus/intern-php-developer/blob/master/task01-brackets.md) - реализовать самый простой алгоритм для дальнейшего переиспользования
-- [Форма обратной связи](https://github.com/rarus/intern-php-developer/blob/master/task02-feedback-form.md) - очередная форма заявки для сайта
-- [Книги](https://github.com/rarus/intern-php-developer/blob/master/task03-books.md) - иногда вам придётся писать SQL-код
+- [Скобки](https://github.com/rarus/intern-php-developer/blob/master/task01-brackets.md) — реализовать самый простой алгоритм для дальнейшего переиспользования
+- [Форма обратной связи](https://github.com/rarus/intern-php-developer/blob/master/task02-feedback-form.md) — очередная форма заявки для сайта
+- [Книги](https://github.com/rarus/intern-php-developer/blob/master/task03-books.md) — иногда вам придётся писать SQL-код
